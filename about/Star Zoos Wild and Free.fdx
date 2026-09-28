@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20250124T200142" id="9c195f5e-0aa0-47bc-81bc-77f1c3655b16">
+    <XRef DateTime="20241111T093444" id="9e0f146d-24bb-468f-b15c-821d7a8a2cc9"/>
+    <XRef DateTime="20241111T093657" id="e1ad66af-16c4-4ce0-bb95-7ceb67c5936d"/>
+    <XRef DateTime="20250102T175442" id="633ebf26-c87d-45b4-9ea4-09ebb1258aaf"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="62ec586b-b404-4f5e-8dcf-83fef884595e">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Space</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66ab4949-48a4-4ee4-83b2-72b92f1557e7">
+      <Text>A field of stars frames the lush, green planet of </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Humedon</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66ab4949-48a4-4ee4-83b2-72b92f1557e7">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Malamotor</Text>
+      <Text>, a chrome starship resembling an advanced dogsled, streaks away. Fresh scorch marks mar her hull.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="66ab4949-48a4-4ee4-83b2-72b92f1557e7">
+      <Text>The ship approaches a herd of </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Waparays</Text>
+      <Text> (colossal space manta rays that dig wormholes for interstellar travel). The ship parks directly beneath a massive ray for cover. As the ship settles, ray bolts from pursuing starfighters strike the herd, disturbing the rays.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="081dcf3b-5cae-4dc3-97b7-e0b93a4d888e">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">MalAMotor</Text>
+      <Text> - CockPIT - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1b3ff3cb-1edc-4ff3-b6b1-35d0aca4a806">
+      <Text AdornmentStyle="-1" Style="AllCaps">Auda</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Waldew</Text>
+      <Text> (40s, bruised, aquatic-style helmet) gasps as she pilots. She glances nervously at a </Text>
+      <Text Style="AllCaps">bucket</Text>
+      <Text> strapped into the passenger seat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="68b975a2-ff1c-422e-824a-1d0277a01380">
+      <Text>She looks up, struggling to keep the ship tucked under the belly of a wiggling </Text>
+      <Text AdornmentStyle="-1">Waparay</Text>
+      <Text>. Plugged into the dashboard is a triangular, palm-sized </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zookey</Text>
+      <Text> embossed with a fire emblem. She touches the key. The ship roars.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="259a9120-6a40-4a65-922e-db7d52d954cd">
+      <Text Style="AllCaps">Pre-lap</Text>
+      <Text>: The roar of an angry mob.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="769b9bdc-cc93-4454-99f7-285ff8563cf3">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0a2e4d2b-0728-421c-a822-ae717a468839">
+      <SceneProperties Length="3/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Int. Royal Palace, </Text>
+      <Text AdornmentStyle="-1">Homedon</Text>
+      <Text> - Day (Earlier)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6d571b47-0555-406d-ba9f-8149ddcbe861">
+      <Text>A set of </Text>
+      <Text AdornmentStyle="-1">ZooKeys</Text>
+      <Text> - Fire, Air, and Water - rest in the palm of a dead man’s hand. </Text>
+      <Text AdornmentStyle="-1">Auda’s</Text>
+      <Text> hand sinks into his. Dressed in elaborate aquatic robes, </Text>
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> weeps.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5fc630e9-917a-4999-a6dc-4a1f587fd320">
+      <Text>A </Text>
+      <Text Style="AllCaps">torch</Text>
+      <Text> shatters a window, igniting the curtains. </Text>
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> grabs the </Text>
+      <Text AdornmentStyle="-1">ZooKeys</Text>
+      <Text> and pulls a </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Novana</Text>
+      <Text> (star-katana) from the dead man’s sheath. She sets down the bucket and slots the </Text>
+      <Text AdornmentStyle="-1">ZooKeys</Text>
+      <Text> into the sword’s triangular hilt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d66c32fe-1720-4f25-ae38-91c09bc0c529">
+      <Text Style="AllCaps">Thud</Text>
+      <Text>. The doors burst open. </Text>
+      <Text Style="AllCaps">rioters</Text>
+      <Text> flood the chamber.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ff1d03ca-1097-4975-9b98-0459650b783a">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> clicks the hilt’s dial to the Fire emblem. The blade erupts in flames. She swings.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="62ec586b-b404-4f5e-8dcf-83fef884595e">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Space - Present</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="99ae543c-248e-4f23-996a-4f6b6614c179">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Malamotor’s</Text>
+      <Text> thrusters dim as it approaches the amber moon of </Text>
+      <Text Style="AllCaps">Jogi</Text>
+      <Text>. The green planet </Text>
+      <Text Style="AllCaps">Bering</Text>
+      <Text> looms in the distance. The </Text>
+      <Text AdornmentStyle="-1">Waparay</Text>
+      <Text> detaches from the top of the ship and drifts away.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="081dcf3b-5cae-4dc3-97b7-e0b93a4d888e">
+      <SceneProperties Length="2/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AUDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">MalAMotor</Text>
+      <Text> - Quarters - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="08f66db5-3f0b-49f0-9f39-49e6c775ed11">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> naps in a hammock. </Text>
+      <Text Style="AllCaps">Stowaway</Text>
+      <Text> </Text>
+      <Text Style="AllCaps">rodents</Text>
+      <Text> scurry from the shadows. A baby’s cry pierces the silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6711ce4c-8b82-4b45-9446-6dd8e7a08be6">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> bolts to the cockpit. The rodents are peering into the bucket. She shoos them away and cradles her infant son, </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Hiko</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="15c82fac-bb5a-4fd7-b0a9-2dea93b82654">
+      <Text AdornmentStyle="-1">Auda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb24d6cd-961b-4afc-8dc3-a9b7e84b0b99">
+      <Text>Shh... No animal chooses harm, so long as we charm them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5f755d67-10ba-4b27-9ace-8261cf27d8bc">
+      <Text>She lowers him back into his bucket-cradle.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8e01b278-389b-4747-a72d-beb83ef12d40">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Jogi - Sky - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4b626b77-5ee2-4869-9ed1-f4b5445d1070">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Malamotor</Text>
+      <Text> dives into the clouds. As it descends, the ship’s chrome finish fades into a weathered, rusty brown.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="43478d86-99d6-44f9-afa4-4e9d8cfe6864">
+      <SceneProperties Length="3/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AUDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="HIKO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">MaLAMOTOR</Text>
+      <Text> - COCKPIT - Continuous (12 Years Later)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0cb9b9da-b9f3-4480-8af1-88f0e13a4a9e">
+      <Text AdornmentStyle="-1" Style="AllCaps">Hiko</Text>
+      <Text> (12, energetic) now wears the bucket on his head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f01d9baa-e9bd-4d03-bf83-2afbb98741e0">
+      <Text AdornmentStyle="-1">AudA</Text>
+      <Text> (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e3c0bf0a-b1f6-4caf-a87c-68eeab0ea632">
+      <Text>Twelve years and you still haven’t outgrown that thing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="340597a8-3f11-4879-be78-3e17f2759b9e">
+      <Text AdornmentStyle="-1">HiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ea1fc85-8249-433d-a685-ed59722ae039">
+      <Text>But not the childproof locks!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5f2a44e1-576b-46c7-8f7f-876b5a0b1e15">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text> slams buttons and yanks a lever.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="429ece7b-95a7-42cf-9c27-053941348126">
+      <Text AdornmentStyle="-1">AudA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="57f158b8-2d50-4b8c-a1a2-6f4c4f3d774e">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text>?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c8f5155f-80f0-47d9-bc77-4cf5d29c62c0">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> lunges for the controls. The </Text>
+      <Text AdornmentStyle="-1">ZooKeys</Text>
+      <Text> on the dashboard are now hollow, their emblems gone.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="91106e5a-1ce7-4bda-a2a6-68ddc8333b5e">
+      <SceneProperties Length="3/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AUDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Jogi - SKy - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="73a90d6a-106f-4883-974c-cc3958e2bda7">
+      <Text>The ship swerves chaotically, rippling the clouds.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e4a71ffa-9bd4-48cd-b661-05b78c73545e">
+      <Text Style="AllCaps">Text appears</Text>
+      <Text>: ZOOS </Text>
+      <Text AdornmentStyle="-1" Font="Sans Mono CJK Final Draft" Size="10">Я</Text>
+      <Text AdornmentStyle="-1">ATZ</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b2c9d7be-3cd4-402c-81cd-1c83e77dacfd">
+      <Text AdornmentStyle="-1">AuDA</Text>
+      <Text> (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ff3e9bc7-b7b0-494c-b8d8-25c4ae53cc40">
+      <Text>You wild animal!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2996857a-f73a-4c7e-9f3c-e29ff8616da5">
+      <Text>The ship performs a barrel roll and flips the text into...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6e2b856f-f800-4dbd-a9a8-445d8da21413">
+      <Text Style="AllCaps">Title card</Text>
+      <Text>: </Text>
+      <Text Style="AllCaps">star zoos</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6e2b856f-f800-4dbd-a9a8-445d8da21413">
+      <Text Style="AllCaps">Episode: Wild and Free</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="25c7ff29-996f-4917-adc7-31bf0747f06f">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="New Act" id="3f3e8b28-85c6-4feb-aff7-008d013e5c90">
+      <Text Style="Underline+AllCaps">Act One</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="db2b8acb-72c0-431c-972c-e050158f0925">
+      <SceneProperties Length="3/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARIUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Amaryis</Text>
+      <Text> Star Zoo - </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> Exhibit - Morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5402800d-a165-4c59-817c-7f23b08cdbe4">
+      <Text>The water ripples. A </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Kotteroo</Text>
+      <Text> (kangaroo otter) breaks the surface, floating on her back with soulful eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a1dc4347-45f3-4f2a-a460-6b11fd38d90b">
+      <Text>Then the voice of </Text>
+      <Text Style="AllCaps">Shelley Dryden</Text>
+      <Text> (12, full of life).</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6b49f824-d74e-4e3f-8ea1-b4b44b56f5f1">
+      <Text>Shelley (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b557065b-645b-45d7-b708-2807dab689a1">
+      <Text>They look so lonely. What are they?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b0248e3e-5a47-4bb5-b235-a547948c148f">
+      <Text>MariUS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2a431feb-fd20-42d7-b47d-5935e38d8122">
+      <Text>Let’s answer that once I open our Star Zoo!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="01097577-13ad-4a95-b7ae-00c27e0ccb8f">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> dives back in.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="db2b8acb-72c0-431c-972c-e050158f0925">
+      <SceneProperties Length="2/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARIUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Zoo - Entrance - Morning</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ac7ba357-948b-465e-9b0e-946cc55da1db">
+      <Text>A massive holographic gate arch scripted in </Text>
+      <Text AdornmentStyle="-1">Amaryan</Text>
+      <Text> glyphs.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cd972e53-fa0b-42bd-90c0-172880052d08">
+      <Text Style="AllCaps">Subtitle</Text>
+      <Text>: </Text>
+      <Text AdornmentStyle="-1">StarZoo</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">Amaryis</Text>
+      <Text>. Operated by </Text>
+      <Text AdornmentStyle="-1">Mooncat</Text>
+      <Text> Ventures.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="29a4fe01-8afc-4dd3-8011-c6e79f603a23">
+      <Text>MarIUS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c2f47b2a-ee6f-4e81-8a72-b37817c4a343">
+      <Text>They ain’t your everyday critters. </Text>
+      <Text AdornmentStyle="-1">Kaleidons</Text>
+      <Text> are your once-in-an-eon miracles of the Olivo Galaxy.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="db2b8acb-72c0-431c-972c-e050158f0925">
+      <SceneProperties Length="1 1/8" Page="3" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARIUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAVEN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Zoo - Center - Noon</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="48dcd8e2-b4bd-42f2-a1ca-81f676a286ab">
+      <Text Style="AllCaps">Marius Dryden</Text>
+      <Text> (50s, with a wild charismatic beard) stands on a high-tech stage next. Shelley sits beside him, swinging her legs. A massive crowd of humans and multi-eyed aliens cheers.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9c7a175c-fee2-4596-b52c-08a20c513813">
+      <Text>MariUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b02d9dcc-52af-4860-abc1-9de094d3278f">
+      <Text>Long ago, my daughter Shelley and I lived by scavenging in the </Text>
+      <Text AdornmentStyle="-1">Amaryis</Text>
+      <Text> underworld. Then, </Text>
+      <Text AdornmentStyle="-1">Mooncat</Text>
+      <Text> Ventures abduct- I mean- </Text>
+      <Text Style="Italic">adopted</Text>
+      <Text> us.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0d743baa-0ee2-4424-9ce4-b0d56e9c3809">
+      <Text>The crowd chuckles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="237c48ce-d947-4855-a06f-c16b8fee7bd0">
+      <Text>MARIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6ae89306-93e6-4174-a329-43629cb73c5d">
+      <Text>With </Text>
+      <Text AdornmentStyle="-1">Mooncat</Text>
+      <Text>, we’re adopting and opening </Text>
+      <Text AdornmentStyle="-1">Amaryis’s</Text>
+      <Text> first </Text>
+      <Text AdornmentStyle="-1">StarZoo</Text>
+      <Text>, full of </Text>
+      <Text AdornmentStyle="-1">Kaleidons</Text>
+      <Text>, whose powers help them adapt to any world and harness its element. With </Text>
+      <Text AdornmentStyle="-1">ZooKeys</Text>
+      <Text>, we can also harness their elements.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="bf392a03-0101-4985-ae4b-de55cab41c2f">
+      <Text>Marius holds up a triangular, palm-sized </Text>
+      <Text AdornmentStyle="-1">ZOOKEY</Text>
+      <Text>. A cloud swirls inside the triangle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f9b39bf0-4742-4221-9234-0981ce595d2c">
+      <Text>MarIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e5f12d7b-545a-4ac2-ab41-512a599c5742">
+      <Text>By tagging a </Text>
+      <Text AdornmentStyle="-1">Kaleidon</Text>
+      <Text>, their cosmic power is in your hands. This clean air you breath here? An air </Text>
+      <Text AdornmentStyle="-1">Kaleidon</Text>
+      <Text>. Our heating system, best in the planet? Fire </Text>
+      <Text AdornmentStyle="-1">Kaleidon</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1d374c0f-d7cf-4423-bf70-0973c3721dd5">
+      <Text>He swaps it for a flaming </Text>
+      <Text AdornmentStyle="-1">ZooKey</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f37d188e-3d28-4f87-9422-df4945b32e7a">
+      <Text>MARIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5f3ec0ea-49e1-46f6-ae96-ee9cf028d4ba">
+      <Text>They are the key to the future!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="efb77a42-ef24-4bc6-9163-745e1682361d">
+      <Text>ShELLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ec15a41-feac-4c8f-805b-efedeeb14178">
+      <Text>And so are you, father!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d5e3faf-312f-4d02-ad32-df054eb4bf92">
+      <Text>MarIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="30293b72-15c6-46bf-97a0-c17f10fb741d">
+      <Text>(Winks at the crowd)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="93c0b72a-ca22-4cf4-b10b-2d03b51a0748">
+      <Text>Careful, Shelley, folks will think I’m only running for Arch-Governor to bring progress. </Text>
+      <Text AdornmentStyle="-1">Anywho</Text>
+      <Text>, this zoo will bring these powerful </Text>
+      <Text AdornmentStyle="-1">Kaleidons</Text>
+      <Text> into the picture.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e7ffeffc-f5f3-4d77-ac68-e0564fdb4e4a">
+      <Text>Shelley and Marius snip a holographic ribbon with massive plasma scissors. Cameras flash as the crowd applauds.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f645a5cb-ce4f-4592-9642-97f7222e3635">
+      <Text>Then, canine howls rip through the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="518e4656-5854-4ded-afd6-13ea320bce84">
+      <Text>Raven (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="384f9779-6811-4aee-a777-6059231ad908">
+      <Text>Not if the Sundogs are in the shot.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="44064ebe-5f75-4bc7-a7ee-397833ccd04f">
+      <SceneProperties Length="4/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="PARSLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAVEN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SUNDOGS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="TIDAL[S]">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Zoo - Hidden Tunnel - Afternoon</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5aceaa15-f686-44a4-8ae6-f5ef1bec76cc">
+      <Text AdornmentStyle="-1" Style="AllCaps">Jamini</Text>
+      <Text> (a child-sized robot with a cassette-tape head), uses an eye-hole to project a hologram of </Text>
+      <Text Style="AllCaps">Raven Teachout</Text>
+      <Text>. She is a koala-like humanoid with oversized triangular goggles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fa30b608-06cf-4c35-8835-249f49ecc147">
+      <Text>In front of </Text>
+      <Text AdornmentStyle="-1">Jamini</Text>
+      <Text> stand </Text>
+      <Text Style="AllCaps">Belka</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Strelka</Text>
+      <Text> - seven-foot-tall </Text>
+      <Text AdornmentStyle="-1">Terrians</Text>
+      <Text> with mixed terrier faces. Wearing flight suits, the sisters are the galaxy’s finest dogfighters, ready to bite.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0dbe5f70-0d91-43e2-941c-a974e6d5da7e">
+      <Text>Behind them are other Sundog Movement members of humans, aliens, and robots with a shared goal of liberating animals.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5df066b-592f-4b52-a76a-4c3689c9b5cb">
+      <Text>Raven</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="75ea3cb6-0a3c-437b-8ad0-57fafd9f05a5">
+      <Text>Who’ll let these animals out?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5ab793a0-f5e6-460b-8393-821cf526d28d">
+      <Text>Sundogs</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d8bf6146-d8e3-42a0-bdfc-1bef105b183b">
+      <Text>Sun! Dogs! Dogs! Dogs!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4b5769bc-e2a4-4744-9969-ca1f51ce9125">
+      <Text>The Sundogs run out and plant magnetic charges on generators.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f16a591f-ef0f-4dbe-90c8-99f40e80b7a0">
+      <SceneProperties Length="4/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GATOMATON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARIUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> Exhibit - MomeNTS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ccfb8416-6178-48b2-9910-4090a65026a8">
+      <Text>Shelley presses her nose on the shiny force field. Marius reads a holographic </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> sign nearby.’</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b16fc498-129e-4314-9712-0bf3edb22e92">
+      <Text>MarIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="21009633-5b7c-44dc-8daa-50b0d32ceb63">
+      <Text>Now... to answer your question earlier, they are-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c8368760-de95-484b-b09f-ae97a9785b5f">
+      <Text Style="AllCaps">Boom</Text>
+      <Text>! </Text>
+      <Text Style="AllCaps">Boom</Text>
+      <Text>! </Text>
+      <Text Style="AllCaps">Boom</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0f6feb7c-f9ce-42ae-ba4b-eda15b3b862c">
+      <Text>The ground shakes. All holographic signs flicker and die. Marius spins, eyes wide as plumes of smoke rise and distant force fields dissipate. He turns to a panicked </Text>
+      <Text Style="AllCaps">staff</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d2a5199d-4bfe-4baa-b376-5b541ef43ed8">
+      <Text>MarIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9c77fa1a-8a8b-4ed3-a0c5-17599294e882">
+      <Text>What are you? Colorblind? Unleash the </Text>
+      <Text AdornmentStyle="-1">GatoMatons</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="680606d3-5530-4499-ac17-3151b4217d5b">
+      <Text>A sleek robotic cat, the </Text>
+      <Text AdornmentStyle="-1">GATOMATON</Text>
+      <Text>, leaps onto Marius’s head.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e35d27fd-8f43-43ef-b211-b706f4ed9dab">
+      <Text AdornmentStyle="-1">GatoMATON</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="c49512b1-c328-49f7-828c-f5957ce32ffd">
+      <Text>(in Spanish; subtitled)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="aec8eacf-65b2-42b6-8436-3419cf5028b8">
+      <Text>Let’s send them rabid dogs to the Rainbow Road!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b6970e7c-a88b-4b16-899b-6e3d50a2b4a7">
+      <SceneProperties Length="3/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GATOMATON">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SUNDOG">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Elsewhere - MomentS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="637319a7-209b-4f98-afef-40c8576a615f">
+      <Text>A clowder of </Text>
+      <Text AdornmentStyle="-1">GatoMatons</Text>
+      <Text> swarms from the vents. They launch into the Sundog raiders, tails whipping out electric bolts. The bolts hit the Sundogs who scream, holding intense burns.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="7ee45c63-7ea0-4c99-93c8-00b012c35d13">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="5fb06c4c-c355-46f9-b73e-3407a19bd6ad">
+          <Text>Sundog</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="3c6cfadc-712b-4265-89de-1df6a40e30af">
+          <Text>Sun set!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="d1bf1a91-6a69-48f4-8c62-c5c05231a0af">
+          <Text>SuNDOG</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="bd26fbc0-3413-40ec-a82a-cfedc8acff2c">
+          <Text>Dog down!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="4a842a04-b1e0-4255-b500-e39be1c7cc79">
+      <Text>Suddenly, shadows lunge out from the smoke. Primal roars drown out the nuts and bolts. Several </Text>
+      <Text AdornmentStyle="-1">Kaleidons</Text>
+      <Text> (vague, powerful shapes) tear the </Text>
+      <Text AdornmentStyle="-1">GatoMatons</Text>
+      <Text> into scrap metal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dbfd1974-6b97-4763-8162-56afd833b9c0">
+      <Text AdornmentStyle="-1">GatOMATON</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="26ff584d-5688-4598-b51d-3072f88208a5">
+      <Text>(in Spanish; subtitled)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a24e55c0-bc75-4990-81c4-e240bb4362f2">
+      <Text>It’s raining Kaleidons...</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b842daea-3e0f-40e5-914c-f90d83000954">
+      <SceneProperties Length="1 2/8" Page="5" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="BELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="BELKA &amp; STRELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MARIUS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SHELLEY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STRELKA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> Exhibit - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="13eb578a-ad39-4f23-947c-7e1d27174d4c">
+      <Text>Belka and </Text>
+      <Text AdornmentStyle="-1">Strelka</Text>
+      <Text> loom over Shelley and Marius.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d04cc5d7-7dab-477a-916a-8f7cfa39d55c">
+      <Text>BelkA &amp; </Text>
+      <Text AdornmentStyle="-1">STRELKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="427fd86a-ee6b-4986-87b2-fb749296f03a">
+      <Text>We may be colorblind...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="919494c1-a40f-4a9f-ab22-e4d3565c8cbe">
+      <Text>BelKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cad9b83c-e8d2-482a-aac5-3f2d17972ff3">
+      <Text>...but we are not blind to...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c775491e-8549-48ff-8b4c-7bccb023bc7f">
+      <Text AdornmentStyle="-1">StRELKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4468b4bd-8621-4c91-be2d-cb23547ee33f">
+      <Text>...our feelings getting hurt!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf735337-9eb6-4452-9338-952e2d74c549">
+      <Text>MARIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="423d22bd-c5a9-446d-95ed-3e62b303a81c">
+      <Text>Your body deserves hurting!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="384ba7e7-e9b0-4cd1-825e-b440ee5e40c0">
+      <Text>SheLLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c71367c5-5baf-4753-8dd3-c66362cea999">
+      <Text>Starfire!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5583f4c5-3e89-4886-8a54-8fedb0646d3a">
+      <Text>Marius whips out his Starfire Snapper Pistol and fires. The sisters weave through the explosive fire bolts with acrobatic grace. The force fields absorb most bolts. One stray bolt hits the </Text>
+      <Text AdornmentStyle="-1">Kotteroo’s</Text>
+      <Text> generator.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3e9906cf-cc5e-4885-9136-0cabbbdfbf17">
+      <Text>The exhibit's force field vanishes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a071bf2b-fa8e-4895-84f0-a9be1097a4e4">
+      <Text>BeLKA &amp; </Text>
+      <Text AdornmentStyle="-1">STRELKA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4b33ca87-fd23-4e27-aa97-65b520e6cf81">
+      <Text>Thanks for the assist, star player!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="606b2624-6431-47d4-96ae-2896bbb883b7">
+      <Text>The sisters dive into the exhibit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="606b2624-6431-47d4-96ae-2896bbb883b7">
+      <Text Style="AllCaps">Splash</Text>
+      <Text>! </Text>
+      <Text Style="AllCaps">Splash</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="606b2624-6431-47d4-96ae-2896bbb883b7">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> leaps up and lands on the guest railing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c2c22a2c-8bea-448e-8308-0b528bfecbf3">
+      <Text>ShELLEY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="00965e08-d5be-4ad7-8165-7b7e863ca15c">
+      <Text>Aww...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c0084b80-1b2d-4dba-bdd8-e089843b67af">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> morphs. Her cute smile sharpens into a predatory snarl. She quadruples in size, growing kangaroo muscles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2e02161f-ede4-4ef2-a6ed-abef9fbd5842">
+      <Text>She lunges. Marius throws himself in front of Shelley.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e45f284-6754-45f0-9a4b-1d460c732bc5">
+      <Text>The beast tackles Marius with her fist punching. He screams. His pistol skids across the ground. Shelley grabs it with her shaky hands. She aims, waits for a clear line, and fires.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2cdeeb9c-76f3-4134-84e8-6e5dc2f8e633">
+      <Text Style="AllCaps">Thud</Text>
+      <Text>. The </Text>
+      <Text AdornmentStyle="-1">Kotteroo</Text>
+      <Text> collapses, stunned by the fire bolt. She morphs back into a cute otter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="70b48638-2aba-438c-bdd1-fd421d50fcc5">
+      <Text>Shelley drops to her knees, cradling her injured father.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="787b2927-4d67-466a-b33b-77c352ed1971">
+      <Text>MarIUS</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0fe03aa3-d776-4194-a86e-b69a0281e2ef">
+      <Text>Hold onto my sunlight...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="25291683-df0e-4d45-9b8b-72a9bc738afe">
+      <Text>Marius goes unconscious.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="70b48638-2aba-438c-bdd1-fd421d50fcc5">
+      <Text>Above, three ships - two dogfighters and a heavy transport - roar and soar away into the clouds.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="abb98adc-bd43-49d5-865d-8069a12de2a7">
+      <Text>Shelley watches them go, with the fire of the burning zoo in her eyes. The wonder is dead. The heat lives on.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="919d094a-ed61-4634-8845-b3039b35cc05">
+      <Text>Match cut to:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c1980797-014d-49d7-aa21-d22d23b691ce">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. Jogi - Amber Fields - Day</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6737cd02-22b3-4c63-962a-05f5b3841a98">
+      <Text>A sea of amber wheat ripples. Cutting through the stalks is the rusty </Text>
+      <Text AdornmentStyle="-1">Malamotor</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7e72c354-dded-43ed-bfa0-e88adf868130">
+      <Text>Steam whistles from a wing’s loose bolt as it accelerates.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="c718b121-f1af-45f9-8a51-f3ba334bfc66">
+      <SceneProperties Length="1 6/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AUDA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="HIKO">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. </Text>
+      <Text AdornmentStyle="-1">Malamotor</Text>
+      <Text> - Cockpit</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="153fbd59-6127-492b-a8fc-15fc45f19f4a">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text>, with grease-smudged cheeks and wearing a bucket helmet, is pinned to the passenger seat. His bucket snaps off his chin and flies backward.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7822a63c-68ed-449e-92e4-31c50b0f57d9">
+      <Text>A hand catches it mid-air. </Text>
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> (now 50s, radiant with a wild spirit) jams the bucket back onto </Text>
+      <Text AdornmentStyle="-1">Hiko’s</Text>
+      <Text> head without taking her eyes off the horizon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="30cb5114-5705-46aa-8385-4683144ff977">
+      <Text AdornmentStyle="-1">Auda</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2756a676-a600-48b3-b991-214613f6ba74">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text>! Always wear your bucket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bda7678f-d3e0-4683-933b-8288775b66ff">
+      <Text AdornmentStyle="-1">Hiko</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cd129b66-350a-46cc-b466-470fb37fe2e2">
+      <Text>If we hit a mountain at Mach 27, how is a hat gonna save us?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="eeccfece-ad38-47b6-9436-28bce9a22498">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="deff9246-8c10-49a0-a497-4771d562fa5c">
+      <Text>It’s not for the crash, son! If we clip someone’s house, they can’t see our faces. We’re almost home!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="df1b2e6b-d592-4dda-8834-7a37ed37b547">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> slams the brake petal. The </Text>
+      <Text AdornmentStyle="-1">Malamotor’s</Text>
+      <Text> engines belch orange smoke, matching the fields below.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8d8a57f2-3fd8-4447-8919-9b739e598320">
+      <Text AdornmentStyle="-1">HiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cb1d6b1-264f-4162-9e28-387ea40d270f">
+      <Text>Woah. Look!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2055b678-d9f0-44b8-9186-15c4ef791219">
+      <Text>High above, a massive </Text>
+      <Text Style="AllCaps">Sundog transport </Text>
+      <Text>tears through the clouds. </Text>
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> flies by their side.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6013b851-1641-4cad-8c89-a73d69a079fe">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2285f4a0-e55f-4dc5-8c8e-7b67063dad0d">
+      <Text>Wave to show that...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d59d8d93-9f0d-4e0c-8285-7aaa193bf4aa">
+      <Text AdornmentStyle="-1">HikO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2ebdf035-647d-4d37-8cf2-68929aedba96">
+      <Text>...we’re friendlies!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9c0c647d-c3a2-439b-b57a-10ce8746484a">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> and </Text>
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text> wave. The transport alien pilot waves back. On their helmet is the Sundog crest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dd9fc80a-d97c-4f5f-b088-cb5faf9c4088">
+      <Text AdornmentStyle="-1">HiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ef07aed0-8948-4824-a1e6-4c2b79829830">
+      <Text>A dog under the star...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="55057bcb-fa70-4979-bcf7-ac97882d5fc0">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fd62045c-0429-48b1-86cd-02212c077762">
+      <Text>Ah, a Sundog!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="19864f00-0d4f-4ac8-9560-b9f6aa3d4f51">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text> looks at </Text>
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text>, hoping for an explanation.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f689b475-380e-41d7-b9d9-fb477b8a43fd">
+      <Text AdornmentStyle="-1">AudA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d2ccb498-62d3-40af-834c-e3992c24848c">
+      <Text>Beats me. I don’t got a dog in the fight to know everything in the galaxy, especially when we still got lots to learn about our moon.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d904b2f-a036-4c6c-9d61-06dc8cc3532a">
+      <Text AdornmentStyle="-1">HIKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7e0701e3-5c1a-4700-a012-26f9bf9110fd">
+      <Text>I hate Jogi.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="722b4979-53e4-4a25-96a8-1ac877e5add7">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c35d0c57-948f-4c3a-b3fc-4a93b3bbae66">
+      <Text>Jogi’s safe.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fd1faa98-8ffe-4090-9f8d-9425a6de9bcd">
+      <Text>The starship hits a brief turbulence, rocking the cockpit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="da80b68d-e724-4150-92a6-555954983ae8">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="69cf1b0b-1bd7-4ff9-a846-af08fa354981">
+      <Text>Mostly safe. For a moon.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2055b678-d9f0-44b8-9186-15c4ef791219">
+      <Text>The transport’s cargo bay yawns open, releasing a menacing flock of winged </Text>
+      <Text AdornmentStyle="-1">Kaleidons</Text>
+      <Text>. They tumble before catching the wind. The transport ignites its thrusters and vanishes into the clouds.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d35c8838-ac5f-4990-a123-b2b6d13e2eb8">
+      <Text AdornmentStyle="-1">HiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3882602b-3aff-4126-8443-fa5c50eff9dc">
+      <Text>These Sundogs just... dumped a bunch of birds?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5595c576-896a-4a46-8d30-05ee3562bfcf">
+      <Text AdornmentStyle="-1">Auda</Text>
+      <Text> kicks open the glove box. A dusty </Text>
+      <Text Style="AllCaps">holographic encyclopedia</Text>
+      <Text> spills out. She tosses it into </Text>
+      <Text AdornmentStyle="-1">Hiko’s</Text>
+      <Text> lap.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9cad8666-4da0-4459-a91e-7e99db50c1e9">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4dc231e5-2288-4fea-ba36-c35729b3da0c">
+      <Text>What sorts of birds?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3223e06e-ef1b-4c06-9a97-1bc487bc6489">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text> swipes frantically through the glowing pages.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d103c8cb-079b-4c81-bbc5-832fc647f710">
+      <Text AdornmentStyle="-1">HiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a880c866-52ba-48c7-9add-e7c0e09626a5">
+      <Text>They ain’t in the Jogi wildlife log-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a705d9b9-edc5-4ed2-a125-231d877aa2a6">
+      <Text AdornmentStyle="-1">AuDA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="baac6439-f3c0-4084-8289-bc96d1b29a7b">
+      <Text>Look up </Text>
+      <Text AdornmentStyle="-1">StarZoo</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="85539a87-2455-4ff8-87d2-fe4ea4af21c7">
+      <Text AdornmentStyle="-1">Hiko</Text>
+      <Text> scrolls past local fauna and flora until he comes across the sleek </Text>
+      <Text AdornmentStyle="-1">Mooncat</Text>
+      <Text> Ventures crest.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9d27d98b-d980-4277-b939-48bf311f02a1">
+      <Text AdornmentStyle="-1">HiKO</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d5b65359-9bf9-44f7-bdaf-6bc2e7cd1020">
+      <Text>Kaleidons?</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="Yes" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">     Star Zoos: Wild and Free</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	            </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Active Revision"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#787878787878" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="635" Left="2" Mode="Maximized" Top="2" Width="649"/>
+
+  <TextState Scaling="100" Selection="2760,2760" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Lyrics">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Lyrics"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Act Info">
+    <FontSpec AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.25" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="Act Info"/>
+    <Behavior PaginateAs="Action" ReturnKey="scene info" Shortcut="" WinShortcut=""/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Star ZOos</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Wild and Free</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">3/13/2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Logline</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">To save a galaxy of endangered </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaleidobeasts</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, a farm boy and his shape-shifting otter join Sundog Movement dogfighters to take down </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Mooncat</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Ventures, a corporate empire using zoos to gain power.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Synopsis</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">In a galaxy where </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaleidobeasts</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> power starships and alter reality, two rival factions fight for the future of wildlife. Star Zoos is a space-opera saga that follows the war between the Sundog Movement, a band of dogfighters who liberate animals from captivity, and </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Mooncat</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> Ventures, a corporate empire that put beasts in zoos for public entertainment and political influence. </Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Star Zoos</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> follows characters like </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hiko</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Waldew</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, a moon dweller whose friend is a shape-shifting otter named Chesapeake. Swept up by Sundog dogfighters, he learns to harness a </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kaleido's</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> cosmic energy to boost starship weapons and defense systems. Under the mentorship of engineer Raven and robot </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Jamini</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hiko</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> becomes a formidable raider dedicated to the movement’s cause.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Standing against him is Shelley Dryden, a </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Mooncat</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> leader who views Kaleidos in zoos as vital tools for galactic stability and education. As </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hiko</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and Shelley trade blows, a darker shadow known only as </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Kloya</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> waits in the wings to turn their beloved companions into ultimate weapons for galactic domination.</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="1234,1234" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Anchor</Character>
+      <Character>Andromeda</Character>
+      <Character>Announcer</Character>
+      <Character>Audience</Character>
+      <Character>Belka</Character>
+      <Character>Belka &amp; Strelka</Character>
+      <Character>Broadcaster</Character>
+      <Character>Bulldozer Driver</Character>
+      <Character>Bus Driver</Character>
+      <Character>Busker</Character>
+      <Character>Cartwheel</Character>
+      <Character>Cartwheel &amp; Whirlpool</Character>
+      <Character>Caterer</Character>
+      <Character>Cori Anh</Character>
+      <Character>Count Celery</Character>
+      <Character>CSP Agent 1</Character>
+      <Character>CSP Agent 2</Character>
+      <Character>Cubana</Character>
+      <Character>Dandy</Character>
+      <Character>Director</Character>
+      <Character>Dirty CITY CITIZEN</Character>
+      <Character>Dirty City citizens</Character>
+      <Character>Gatomaton</Character>
+      <Character>Gatomaton &amp; Milky Way</Character>
+      <Character>Gourdon</Character>
+      <Character>Heidi</Character>
+      <Character>Junior Galaxies</Character>
+      <Character>Marius</Character>
+      <Character>May Hawn</Character>
+      <Character>May Hawthorn</Character>
+      <Character>Mayor</Character>
+      <Character>Migrant</Character>
+      <Character>Milky Way</Character>
+      <Character>Ms. Red</Character>
+      <Character>Nature</Character>
+      <Character>Nurse</Character>
+      <Character>Orange</Character>
+      <Character>Parsley</Character>
+      <Character>Parsley &amp; Raven</Character>
+      <Character>Patron</Character>
+      <Character>Prick</Character>
+      <Character>Production Assistant</Character>
+      <Character>Protestors</Character>
+      <Character>Raven</Character>
+      <Character>Rawata</Character>
+      <Character>Rawata &amp; Marius</Character>
+      <Character>Reporter</Character>
+      <Character>Rihzo</Character>
+      <Character>Sapp Agents</Character>
+      <Character>Security Guard</Character>
+      <Character>Shelley</Character>
+      <Character>Shelley</Character>
+      <Character>Shelley &amp; Marius</Character>
+      <Character>Shelley &amp; Parsley</Character>
+      <Character>Special &amp; General</Character>
+      <Character>Strelka</Character>
+      <Character>Sundog</Character>
+      <Character>Sundogs</Character>
+      <Character>Teen Galaxies</Character>
+      <Character>The Galaxy Family, except Milky Way</Character>
+      <Character>Tidals</Character>
+      <Character>Transplant</Character>
+      <Character>Transplants</Character>
+      <Character>Triangulum</Character>
+      <Character>Vets</Character>
+      <Character>Whirlpool</Character>
+      <Character>Worker 1</Character>
+      <Character>Worker 2</Character>
+      <Character>Workers</Character>
+      <Character>Young Gatomaton</Character>
+      <Character>Young Shelley</Character>
+      <Character>Zea</Character>
+      <Character>Zea Mays</Character>
+      <Character>Auda</Character>
+      <Character>Hiko</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Recording)</Extension>
+      <Extension>(TV)</Extension>
+      <Extension>(Pre-Lap)</Extension>
+      <Extension>(Radio)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+      <SceneIntro>ACT I
+
+EXT</SceneIntro>
+      <SceneIntro>1</SceneIntro>
+      <SceneIntro>4</SceneIntro>
+      <SceneIntro>3</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>ACT I</Location>
+      <Location>NEVERENDING NEBULA: THE FORBIDDEN FOREST</Location>
+      <Location>THE VONG TRON GARDEN</Location>
+      <Location>"BOUNCE"</Location>
+      <Location>VONG TRON GARDEN</Location>
+      <Location>KITCHEN</Location>
+      <Location>BOWL HALL</Location>
+      <Location>END OF "CRUNCH"</Location>
+      <Location>THE DOGHOUSE</Location>
+      <Location>Belka'S DOGHOUSE</Location>
+      <Location>ANDROMEDA'S BEDROOM IN CIRCLE MANOR</Location>
+      <Location>Shelley'S QUARTERS</Location>
+      <Location>THE ROOFTOP OF CIRCLE MANOR</Location>
+      <Location>"THE EDGE OF THE UNIVERSE"</Location>
+      <Location>END OF "THE EDGE OF THE UNIVERSE"</Location>
+      <Location>END OF "BIG BANG"</Location>
+      <Location>NEVERENDING NEBULA</Location>
+      <Location>"GALS GOT A TALE"</Location>
+      <Location>FROM ABOVE THE UNIVERSE</Location>
+      <Location>BEGIN FLASHBACK</Location>
+      <Location>END FLASHBACK</Location>
+      <Location>Parsley &amp; Raven'S HOUSE</Location>
+      <Location>WHITE CANVAS</Location>
+      <Location>DIRTY CITY</Location>
+      <Location>FIG LEAF</Location>
+      <Location>MT. WOODWORK</Location>
+      <Location>SALONTRO</Location>
+      <Location>Parsley &amp; Raven'S BEDROOM</Location>
+      <Location>Parsley &amp; Raven'S BATHROOM</Location>
+      <Location>Parsley &amp; Raven'S LIVING ROOM</Location>
+      <Location>WOODWORK</Location>
+      <Location>TERRACOTTA ROOM</Location>
+      <Location>POLAROID CAMERA STORE IN THE AIRPORT</Location>
+      <Location>FIGLEAF</Location>
+      <Location>DIRTY CITY - STREET</Location>
+      <Location>FIGLEAF NIGHTCLUB</Location>
+      <Location>MOSS RETREAT</Location>
+      <Location>PARSLEY</Location>
+      <Location>CITY HALL</Location>
+      <Location>STUDIO</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>HERBIVORE'S PIT</Location>
+      <Location>CANTALOUPE OUTLETS</Location>
+      <Location>GYM IN ROOTIMENTARY SCHOOL</Location>
+      <Location>IT'S ALL DANDY PROPERTIES HEADQUARTERS</Location>
+      <Location>THEATRE IN ROOTIMENTARY SCHOOL</Location>
+      <Location>BACK OF THE THEATRE IN ROOTIMENTARY SCHOOL</Location>
+      <Location>BACK OF THE THEATRE</Location>
+      <Location>HERBIVORE PIT</Location>
+      <Location>TELEVISION</Location>
+      <Location>"</Location>
+      <Location>PARK</Location>
+      <Location>CAREX DUNE</Location>
+      <Location>SUMMER SOLSTICE RETREAT</Location>
+      <Location>DEPARTMENT OF GARDEN SECURITY HEADQUARTERS</Location>
+      <Location>HOSPITAL HALLWAY</Location>
+      <Location>BUS</Location>
+      <Location>THE BEACH</Location>
+      <Location>THEATRE</Location>
+      <Location>HOSPITAL ROOM</Location>
+      <Location>RANDOM HOME</Location>
+      <Location>IT'S ALL DANDY PROPERTIES CONFERENCE ROOM</Location>
+      <Location>PINERY PARK RESTROOM</Location>
+      <Location>AMARYIS INTERGALACTIC ZOO</Location>
+      <Location>OVER BLUE WATER</Location>
+      <Location>AMARYIS INTERGALACTIC ZOO - ENTRANCE</Location>
+      <Location>ZOO CENTER</Location>
+      <Location>RAWATA EXHIBIT</Location>
+      <Location>ELSEWHERE</Location>
+      <Location>JOGI - ORANGE FIELDS</Location>
+      <Location>MALAMUTAR</Location>
+      <Location>STAR ZOOS, AMARYIS - RAWATA EXHIBIT</Location>
+      <Location>SPACE</Location>
+      <Location>MALAMUTAR - COCKPIT</Location>
+      <Location>ROYAL PALACE, HOMEDON</Location>
+      <Location>MALAMOTOR - COCKPIT</Location>
+      <Location>HANGAR, HOMEDON</Location>
+      <Location>BARN, JOGI - DUSK</Location>
+      <Location>JOGI</Location>
+      <Location>JOGI - SKY</Location>
+      <Location>AMARYIS STAR ZOO - RAWATA EXHIBIT</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>STREET</TimeOfDay>
+      <TimeOfDay>LATE NOON</TimeOfDay>
+      <TimeOfDay>LONG AGO</TimeOfDay>
+      <TimeOfDay>SHORTLY AFTER</TimeOfDay>
+      <TimeOfDay>VARIOUS LOCATIONS</TimeOfDay>
+      <TimeOfDay>SUMMER SOLSTICE</TimeOfDay>
+      <TimeOfDay>COCKPIT</TimeOfDay>
+      <TimeOfDay>DAY (EARLIER)</TimeOfDay>
+      <TimeOfDay>PRESENT</TimeOfDay>
+      <TimeOfDay>SKY</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>Transition to:</Transition>
+      <Transition>Dip to White:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="3/13/26" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="9" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Anchor"/>
+    <Member Actor="" Character="Andromeda"/>
+    <Member Actor="" Character="Announcer"/>
+    <Member Actor="" Character="Audience"/>
+    <Member Actor="" Character="Belka"/>
+    <Member Actor="" Character="Belka &amp; Strelka"/>
+    <Member Actor="" Character="Broadcaster"/>
+    <Member Actor="" Character="Bulldozer Driver"/>
+    <Member Actor="" Character="Bus Driver"/>
+    <Member Actor="" Character="Busker"/>
+    <Member Actor="" Character="Cartwheel"/>
+    <Member Actor="" Character="Cartwheel &amp; Whirlpool"/>
+    <Member Actor="" Character="Caterer"/>
+    <Member Actor="" Character="Cori Anh"/>
+    <Member Actor="" Character="Count Celery"/>
+    <Member Actor="" Character="CSP Agent 1"/>
+    <Member Actor="" Character="CSP Agent 2"/>
+    <Member Actor="" Character="Cubana"/>
+    <Member Actor="" Character="Dandy"/>
+    <Member Actor="" Character="Director"/>
+    <Member Actor="" Character="Dirty CITY CITIZEN"/>
+    <Member Actor="" Character="Dirty City citizens"/>
+    <Member Actor="" Character="Gatomaton"/>
+    <Member Actor="" Character="Gatomaton &amp; Milky Way"/>
+    <Member Actor="" Character="Gourdon"/>
+    <Member Actor="" Character="Heidi"/>
+    <Member Actor="" Character="Junior Galaxies"/>
+    <Member Actor="" Character="Marius"/>
+    <Member Actor="" Character="May Hawn"/>
+    <Member Actor="" Character="May Hawthorn"/>
+    <Member Actor="" Character="Mayor"/>
+    <Member Actor="" Character="Migrant"/>
+    <Member Actor="" Character="Milky Way"/>
+    <Member Actor="" Character="Ms. Red"/>
+    <Member Actor="" Character="Nature"/>
+    <Member Actor="" Character="Nurse"/>
+    <Member Actor="" Character="Orange"/>
+    <Member Actor="" Character="Parsley"/>
+    <Member Actor="" Character="Parsley &amp; Raven"/>
+    <Member Actor="" Character="Patron"/>
+    <Member Actor="" Character="Prick"/>
+    <Member Actor="" Character="Production Assistant"/>
+    <Member Actor="" Character="Protestors"/>
+    <Member Actor="" Character="Raven"/>
+    <Member Actor="" Character="Rawata"/>
+    <Member Actor="" Character="Rawata &amp; Marius"/>
+    <Member Actor="" Character="Reporter"/>
+    <Member Actor="" Character="Rihzo"/>
+    <Member Actor="" Character="Sapp Agents"/>
+    <Member Actor="" Character="Security Guard"/>
+    <Member Actor="" Character="Shelley"/>
+    <Member Actor="" Character="Shelley"/>
+    <Member Actor="" Character="Shelley &amp; Marius"/>
+    <Member Actor="" Character="Shelley &amp; Parsley"/>
+    <Member Actor="" Character="Special &amp; General"/>
+    <Member Actor="" Character="Strelka"/>
+    <Member Actor="" Character="Sundog"/>
+    <Member Actor="" Character="Sundogs"/>
+    <Member Actor="" Character="Teen Galaxies"/>
+    <Member Actor="" Character="The Galaxy Family, except Milky Way"/>
+    <Member Actor="" Character="Tidals"/>
+    <Member Actor="" Character="Transplant"/>
+    <Member Actor="" Character="Transplants"/>
+    <Member Actor="" Character="Triangulum"/>
+    <Member Actor="" Character="Vets"/>
+    <Member Actor="" Character="Whirlpool"/>
+    <Member Actor="" Character="Worker 1"/>
+    <Member Actor="" Character="Worker 2"/>
+    <Member Actor="" Character="Workers"/>
+    <Member Actor="" Character="Young Gatomaton"/>
+    <Member Actor="" Character="Young Shelley"/>
+    <Member Actor="" Character="Zea"/>
+    <Member Actor="" Character="Zea Mays"/>
+    <Member Actor="" Character="Auda"/>
+    <Member Actor="" Character="Hiko"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="AUDA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="BELKA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="BELKA &amp; STRELKA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="GATOMATON" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="HIKO" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MARIUS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RAVEN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SHELLEY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="STRELKA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SUNDOG" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SUNDOGS" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="a466283e-86b6-48cc-94c9-bae9b22dc51c"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems>
+    <ListItem Color="#8F8FC3C36A6A" Id="d6cdfd18-af64-4c98-956a-dbe62404ac19" Title="PHOTOSYNTHESIS BEAT BOARD" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="20" Style="Bold+Italic">Photosynthesis</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="20" Style=""> is a plant-based animated musical comedy set in a world inhabited by photogenic plants, where a cilantro and salon owner named Shelley Ram tries to earn her green card in a garden that does not welcome her, her son Parsley, or other transplants.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="af858087-9994-459a-8470-ab98ce87dd18" Title="Theme Stated" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="4.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">"A green card ain't green on the other side." - Gatomaton Crabapple</Text>
+        </Paragraph>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Shelley believes a green card would grant her a place in the nation's soil. It can be as lonesome as not having one. Her photos are just her and her son now, but as they better the community, she will learn what it means to belong.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8888CACAB8B8" Id="0805bc7e-6baa-4fc1-a517-394bc531f4b8" Title="Business is Booming" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Though Shelley bombed her pitch to the investors cause Parsley showed up in a bad state due to Raven, </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Salontro</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> thrives from public empathy which she sees as pity. It catches the attention of </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Rawata</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="b331a149-4a45-41d9-bd9c-686dfcc9c95a" Title="Opening Image" Type="Beat">
+      <SubordinateTo Length="1.000" Level="Outline 2" Number="0.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="12" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">A lonely photo and immigration case file of Shelley Ram, an expectant mother on her way to Dirty City, Woodwork.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="cf3bd14f-9452-448e-b518-d172b9f85950" Title="Midpoint" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="54.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Shelley does this summer solstice retreat to get on Malus’s good side in buying Salontro. While on the retreat with Gatomaton, she learns about Gatomaton being kicked out by their parents for being queer and how they found a home in FigLeaf and their experience with immigrants. Gatomaton gifts the deed to Salontro at no charge.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="c0788144-0e1d-492e-864a-573c2a6dab28" Title="Bad Guys Close In" Type="Beat">
+      <SubordinateTo Length="20.000" Level="Outline 1" Number="54.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Parsley sneaks out. Raven has an unlawful rave at </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">FigLeaf</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style=""> that leads to Parsley’s hospitalization and their arrest. Dirty City shuts down </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">FigLeaf</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">.  Hoping to keep the family integrity, Shelley decides not to stick up for Gatomaton and blames their community for "misleading" her son.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFA0A0A0A0" Id="6e9f7e97-9b42-4557-a237-3859abee3a60" Title="Cantaloupe Outlets - Crop Top" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="a1f2fc60-174f-467c-bbe0-465aa70b5604" Title="Dark Night of the Soul" Type="Beat">
+      <SubordinateTo Length="10.000" Level="Outline 1" Number="74.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Parsley runs away with Raven to their hometown of Mt. Woodwork. No one will help even a Woodwork citizen find her son. Shelley is alone (“A green card ain't green on the other side”).</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="bf677f4f-1f28-40cc-bb33-101f89291589" Title="Finale" Type="Beat">
+      <SubordinateTo Length="25.000" Level="Outline 1" Number="84.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">In a city auction, Shelley almost wins FigLeaf’s domain, but Dandy Lyon Estate outbids. Shelley squats on the premises, halting the demolition. She gains public support but is alone in a water-hunger strike. Secretary of Garden Security Rawata and their Transplant Service Officers revoke Rau’s green card. Seeing the news, Parsley worries. He returns, making Shelley leave her post. FigLeaf gets bulldozed. Rawata chases Shelley into Salontro, but Raven traps Rawata in a tanning bed. Changed by its magic, Rawata threatens the developers with legal action for exploitations of transplants. Shelley knows she’ll have to wait another dozen years for her green card to be reconsidered. Gatomaton builds Fig Palace. She uses her savings to create an internship for Raven.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="efdf52b4-357c-4cf9-a53f-93694347c667" Title="Fun and Games " Type="Beat">
+      <SubordinateTo Length="25.000" Level="Outline 1" Number="29.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Overtime, Shelley saves enough to purchase </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Salontro</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">. Parsley seems queer and weird to Shelley. Gatomaton asks Shelley to come to their summer solstice retreat. Parsley opens up and asks to hang out with Raven as friends in Cantaloupe Outlets. Shelley receives her green card in the mail. She cannot hold this news any longer and goes to see Parsley. She finds Parsley and Raven wearing crop tops which makes her lash out.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="63df4ed7-1dc0-48e2-94a8-646981b907df" Title="All Is Lost" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="74.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Shelley keeps </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Salontro</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style=""> salon, but her son Parsley won’t speak to her. She loses her regulars and lives on her savings.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="53007db0-0ae0-44dd-8f67-0b9d618d3293" Title="Break into Three" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="84.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">On a calendar, Shelley looks at past photos of her and Parsley. It’s been a photo of her alone these past many days. She finds the photobooth photo of Parsley and Raven. It’s the happiest Parsley has ever been.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="fc17dacc-d360-4392-a7bf-8e82851f1c40" Title="Setup" Type="Beat">
+      <SubordinateTo Length="9.000" Level="Outline 1" Number="0.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Shelley Ram, a cilantro and expectant mother, emigrates to Dirty City. She could not find a home for her salon business. However, Gatomaton, a nightclub owner and landlord, offers her their spare plot of land. The difference between them is night and day for the nightclub owner and salon owner. She soon has a son named Parsley.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="aa81d714-1855-4e03-827f-d4ed055fdb43" Title="Catalyst" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="12.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">After a dozen years, Rau’s green card application is finally up for review. It comes at a time when more “invasive species” are forced out of Woodwork. She’s only able to stay in this garden because her son is a natural born citizen. With a green card, she can legally own </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Salontro</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style=""> and get it off Malus’s hand. It's April. She's need to get a green card before summer ends or she'll be uprooted when the Weed Out Act is ratified.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="c45c025a-231f-4b3d-9d9a-198b62fd969d" Title="Debate" Type="Beat">
+      <SubordinateTo Length="12.000" Level="Outline 1" Number="12.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Raven, a pear suspended from their conservatory, visits town and stays with their </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">unty</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style=""> Gatomaton. They befriend the well-behave Parsley. Shelley sees Raven as a bad influence.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="c138bf8b-af26-4242-b5f1-e398e6e4140f" Title="Break into Two " Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="24.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Shelley could never save up when paying rent. However, Gatomaton strikes a deal that they won’t charge them if Parsley is Pyrus’s school tutor.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="321b7d69-34fa-4004-99b8-5e7b8e191ff1" Title="Final Image" Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="108.500" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">A group photo of Shelley surrounded by those who love her.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFA0A0A0A0" Id="3dc6360f-ef65-40ec-b666-8dbe3c882951" Title="Raven at Parsley's Ceremony" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Raven makes a ruckus at the elementary school, where Parsley has a speech. Raven realizes Parsley is sheltered.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8888CACAB8B8" Id="cfa9cadc-3458-4f84-9876-4499b1dbd843" Title="Gatomaton invites Shelley to Retreat" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">To build trust in Raven, Gatomaton invites Shelley to their annual summer solstice retreat which she initially is hesitant of.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="2cee6265-aa8b-438d-a042-5d3e9648dd76" Title="B Story " Type="Beat">
+      <SubordinateTo Length="0.500" Level="Outline 2" Number="29.000" Order="0" Type="PageGoal"/>
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Shelley needs all hands on deck to save up to purchase </Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Salontro</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">, while Parsley plays hooky with Raven and does everything they can to hide their adventures.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="488a3e71-bafb-4e40-96cf-14dd69a7313f" Title="Act 1 (Photosyn-Thesis)" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">World before the story.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFFFFFFFFF" Id="61e27ea7-b010-4635-ab47-bb4461c0131c" Title="Act 2 (Anti-PS-thesis)" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="15" Style="">Bizarro version of the world in Act 1.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#8F8FC3C36A6A" Id="ffeefb6d-9d22-44ea-b458-5a5dfe417f20" Title="Act 3 (Photo-Synthesis)" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">The worlds from Act 1 and Act 2 are merged in some way.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#C0C0C0C0C0C0" Id="7448a142-e02e-43d1-be10-96fefbc9b6b1" Title="Break into Two (reminder)" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Act Two, that is; it is where we leave the "Thesis" world behind and enter the upside-down "Anti-thesis" world of Act Two. The hero makes a choice — and his/her journey begins.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFA0A0A0A0" Id="53f63bdb-eae7-4691-a6af-505d61eb5c7a" Title="Raven is a lousy mentee" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Parsley tries to tutor Raven.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#FFFFA0A0A0A0" Id="8ec2d26c-be1b-4553-b18e-70b89c00ba76" Title="The Herbivores Reality Show" Type="Beat">
+      <Content>
+        <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">Shelley jokingly says it's easier to get on this Shark Tank-</Text>
+          <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style="">esque</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""> business reality show than a green card. She is right.</Text>
+        </Paragraph>
+      </Content>
+    </ListItem>
+    <ListItem Color="#EFEFA4A46262" EndCap="None" EndPoint="b331a149-4a45-41d9-bd9c-686dfcc9c95a" FrontCap="Arrow" Id="489961d3-54ab-40fb-8d3d-a31a77b53aad" StartPoint="fc17dacc-d360-4392-a7bf-8e82851f1c40" Type="PeerLink"/>
+    <ListItem EndCap="None" EndPoint="3dc6360f-ef65-40ec-b666-8dbe3c882951" FrontCap="None" Id="f5625f45-86b2-42ba-910f-43cdb028debb" StartPoint="efdf52b4-357c-4cf9-a53f-93694347c667" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="None" EndPoint="af858087-9994-459a-8470-ab98ce87dd18" FrontCap="None" Id="e1cfa436-41fe-4c7c-9920-2031d522650a" StartPoint="fc17dacc-d360-4392-a7bf-8e82851f1c40" Type="PeerLink"/>
+    <ListItem EndCap="None" EndPoint="efdf52b4-357c-4cf9-a53f-93694347c667" FrontCap="None" Id="a62b5b15-c975-4177-85a2-478bea439759" StartPoint="8ec2d26c-be1b-4553-b18e-70b89c00ba76" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="aa81d714-1855-4e03-827f-d4ed055fdb43" FrontCap="None" Id="91a09efb-503b-4f9b-a63b-6c6ac9ec5427" StartPoint="fc17dacc-d360-4392-a7bf-8e82851f1c40" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="c45c025a-231f-4b3d-9d9a-198b62fd969d" FrontCap="None" Id="406f12ce-ba48-40a4-b3a0-fc9af2ebaac5" StartPoint="aa81d714-1855-4e03-827f-d4ed055fdb43" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="c138bf8b-af26-4242-b5f1-e398e6e4140f" FrontCap="None" Id="9a1b87f7-8ced-458e-93e6-aa5574b3b746" StartPoint="c45c025a-231f-4b3d-9d9a-198b62fd969d" Type="PeerLink"/>
+    <ListItem EndCap="None" EndPoint="6e9f7e97-9b42-4557-a237-3859abee3a60" FrontCap="None" Id="168eb73f-30d7-4f1e-9ada-9b845e275243" StartPoint="efdf52b4-357c-4cf9-a53f-93694347c667" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="None" EndPoint="efdf52b4-357c-4cf9-a53f-93694347c667" FrontCap="None" Id="5728c667-cda5-4c5d-948f-4bb76a10391d" StartPoint="2cee6265-aa8b-438d-a042-5d3e9648dd76" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="c0788144-0e1d-492e-864a-573c2a6dab28" FrontCap="None" Id="36cf92aa-33fb-4e35-acf4-2aab8ba1292a" StartPoint="cf3bd14f-9452-448e-b518-d172b9f85950" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="efdf52b4-357c-4cf9-a53f-93694347c667" FrontCap="None" Id="7e462870-409e-4ea6-bade-ba3c4ee4ea67" StartPoint="c138bf8b-af26-4242-b5f1-e398e6e4140f" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="cf3bd14f-9452-448e-b518-d172b9f85950" FrontCap="None" Id="da9c687d-ca6c-4fa7-b11d-5e8caed7a66d" StartPoint="efdf52b4-357c-4cf9-a53f-93694347c667" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="63df4ed7-1dc0-48e2-94a8-646981b907df" FrontCap="None" Id="8d941a32-0760-46bb-a1fc-0085eda52d58" StartPoint="c0788144-0e1d-492e-864a-573c2a6dab28" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="a1f2fc60-174f-467c-bbe0-465aa70b5604" FrontCap="None" Id="1d5d09c4-08f3-458f-906d-24c8871778de" StartPoint="63df4ed7-1dc0-48e2-94a8-646981b907df" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="53007db0-0ae0-44dd-8f67-0b9d618d3293" FrontCap="None" Id="91e4cac4-ffc7-4444-8429-f84d7e06f41c" StartPoint="a1f2fc60-174f-467c-bbe0-465aa70b5604" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="Arrow" EndPoint="bf677f4f-1f28-40cc-bb33-101f89291589" FrontCap="None" Id="760ab91b-437f-4f7c-82dd-d1cb9b0147f2" StartPoint="53007db0-0ae0-44dd-8f67-0b9d618d3293" Type="PeerLink"/>
+    <ListItem Color="#EFEFA4A46262" EndCap="None" EndPoint="bf677f4f-1f28-40cc-bb33-101f89291589" FrontCap="Arrow" Id="2d1d3c56-2aa5-4512-a71d-05ef8f96a4f8" StartPoint="321b7d69-34fa-4004-99b8-5e7b8e191ff1" Type="PeerLink"/>
+    <ListItem EndCap="None" EndPoint="53f63bdb-eae7-4691-a6af-505d61eb5c7a" FrontCap="None" Id="34f3c4f0-15cb-4fcc-ba8f-8f95d9adf4f4" StartPoint="efdf52b4-357c-4cf9-a53f-93694347c667" Type="PeerLink"/>
+    <ListItem EndCap="None" EndPoint="0805bc7e-6baa-4fc1-a517-394bc531f4b8" FrontCap="None" Id="ce54729f-138e-42cd-a9fa-bb29845f9783" StartPoint="efdf52b4-357c-4cf9-a53f-93694347c667" Type="PeerLink"/>
+    <ListItem EndCap="None" EndPoint="cfa9cadc-3458-4f84-9876-4499b1dbd843" FrontCap="None" Id="dca20f89-bf53-4c2f-ac9f-9b81dfb21d6b" StartPoint="efdf52b4-357c-4cf9-a53f-93694347c667" Type="PeerLink"/>
+  </ListItems>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000">
+      <Item Height="100" Id="3dc6360f-ef65-40ec-b666-8dbe3c882951" Left="780" Top="1180" Width="240"/>
+      <Item Height="100" Id="cfa9cadc-3458-4f84-9876-4499b1dbd843" Left="780" Top="1300" Width="240"/>
+      <Item Height="100" Id="8ec2d26c-be1b-4553-b18e-70b89c00ba76" Left="780" Top="1420" Width="240"/>
+      <Item Height="120" Id="0805bc7e-6baa-4fc1-a517-394bc531f4b8" Left="780" Top="1540" Width="240"/>
+      <Item Height="40" Id="6e9f7e97-9b42-4557-a237-3859abee3a60" Left="780" Top="1680" Width="240"/>
+      <Item Height="160" Id="aa81d714-1855-4e03-827f-d4ed055fdb43" Left="260" Top="380" Width="440"/>
+      <Item Height="180" Id="cf3bd14f-9452-448e-b518-d172b9f85950" Left="260" Top="1100" Width="320"/>
+      <Item Height="60" Id="53f63bdb-eae7-4691-a6af-505d61eb5c7a" Left="780" Top="1100" Width="240"/>
+      <Item Height="160" Id="efdf52b4-357c-4cf9-a53f-93694347c667" Left="260" Top="900" Width="480"/>
+      <Item Height="240" Id="bf677f4f-1f28-40cc-bb33-101f89291589" Left="260" Top="1900" Width="480"/>
+      <Item Height="120" Id="321b7d69-34fa-4004-99b8-5e7b8e191ff1" Left="780" Top="1900" Width="240"/>
+      <Item Height="400" Id="ffeefb6d-9d22-44ea-b458-5a5dfe417f20" Left="20" Top="1740" Width="200"/>
+      <Item Height="800" Id="61e27ea7-b010-4635-ab47-bb4461c0131c" Left="20" Top="900" Width="200"/>
+      <Item Height="120" Id="53007db0-0ae0-44dd-8f67-0b9d618d3293" Left="260" Top="1740" Width="440"/>
+      <Item Height="120" Id="a1f2fc60-174f-467c-bbe0-465aa70b5604" Left="260" Top="1580" Width="480"/>
+      <Item Height="80" Id="63df4ed7-1dc0-48e2-94a8-646981b907df" Left="260" Top="1460" Width="440"/>
+      <Item Height="120" Id="c0788144-0e1d-492e-864a-573c2a6dab28" Left="260" Top="1300" Width="480"/>
+      <Item Height="160" Id="fc17dacc-d360-4392-a7bf-8e82851f1c40" Left="260" Top="180" Width="480"/>
+      <Item Height="680" Id="488a3e71-bafb-4e40-96cf-14dd69a7313f" Left="20" Top="180" Width="200"/>
+      <Item Height="160" Id="2cee6265-aa8b-438d-a042-5d3e9648dd76" Left="780" Top="900" Width="240"/>
+      <Item Height="120" Id="7448a142-e02e-43d1-be10-96fefbc9b6b1" Left="780" Top="740" Width="240"/>
+      <Item Height="120" Id="c138bf8b-af26-4242-b5f1-e398e6e4140f" Left="260" Top="740" Width="440"/>
+      <Item Height="120" Id="c45c025a-231f-4b3d-9d9a-198b62fd969d" Left="260" Top="580" Width="480"/>
+      <Item Height="120" Id="b331a149-4a45-41d9-bd9c-686dfcc9c95a" Left="780" Top="180" Width="240"/>
+      <Item Height="240" Id="af858087-9994-459a-8470-ab98ce87dd18" Left="780" Top="340" Width="240"/>
+      <Item Height="120" Id="d6cdfd18-af64-4c98-956a-dbe62404ac19" Left="20" Top="20" Width="1000"/>
+      <Item Height="26" Id="2d1d3c56-2aa5-4512-a71d-05ef8f96a4f8" Left="730" Top="1968" Width="60"/>
+      <Item Height="60" Id="760ab91b-437f-4f7c-82dd-d1cb9b0147f2" Left="475" Top="1850" Width="25"/>
+      <Item Height="60" Id="91e4cac4-ffc7-4444-8429-f84d7e06f41c" Left="477" Top="1690" Width="26"/>
+      <Item Height="60" Id="1d5d09c4-08f3-458f-906d-24c8871778de" Left="475" Top="1530" Width="27"/>
+      <Item Height="60" Id="8d941a32-0760-46bb-a1fc-0085eda52d58" Left="475" Top="1410" Width="27"/>
+      <Item Height="40" Id="36cf92aa-33fb-4e35-acf4-2aab8ba1292a" Left="452" Top="1270" Width="30"/>
+      <Item Height="60" Id="da9c687d-ca6c-4fa7-b11d-5e8caed7a66d" Left="444" Top="1050" Width="36"/>
+      <Item Height="20" Id="5728c667-cda5-4c5d-948f-4bb76a10391d" Left="730" Top="970" Width="60"/>
+      <Item Height="60" Id="7e462870-409e-4ea6-bade-ba3c4ee4ea67" Left="476" Top="850" Width="26"/>
+      <Item Height="60" Id="9a1b87f7-8ced-458e-93e6-aa5574b3b746" Left="477" Top="690" Width="26"/>
+      <Item Height="60" Id="406f12ce-ba48-40a4-b3a0-fc9af2ebaac5" Left="478" Top="530" Width="26"/>
+      <Item Height="60" Id="91a09efb-503b-4f9b-a63b-6c6ac9ec5427" Left="477" Top="330" Width="26"/>
+      <Item Height="80" Id="e1cfa436-41fe-4c7c-9920-2031d522650a" Left="649" Top="330" Width="141"/>
+      <Item Height="22" Id="489961d3-54ab-40fb-8d3d-a31a77b53aad" Left="730" Top="236" Width="60"/>
+      <Item Height="140" Id="f5625f45-86b2-42ba-910f-43cdb028debb" Left="617" Top="1050" Width="214"/>
+      <Item Height="640" Id="168eb73f-30d7-4f1e-9ada-9b845e275243" Left="534" Top="1050" Width="365"/>
+      <Item Height="60" Id="34f3c4f0-15cb-4fcc-ba8f-8f95d9adf4f4" Left="703" Top="1050" Width="128"/>
+      <Item Height="380" Id="a62b5b15-c975-4177-85a2-478bea439759" Left="555" Top="1050" Width="315"/>
+      <Item Height="500" Id="ce54729f-138e-42cd-a9fa-bb29845f9783" Left="541" Top="1050" Width="331"/>
+      <Item Height="260" Id="dca20f89-bf53-4c2f-ac9f-9b81dfb21d6b" Left="576" Top="1050" Width="280"/>
+    </DisplayBoard>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="926,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="654b6814-023b-44ad-a7ea-c23ca43a77df" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+      <Item Id="bf677f4f-1f28-40cc-bb33-101f89291589" LaneId="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3"/>
+      <Item Id="53007db0-0ae0-44dd-8f67-0b9d618d3293" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="a1f2fc60-174f-467c-bbe0-465aa70b5604" LaneId="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3"/>
+      <Item Id="63df4ed7-1dc0-48e2-94a8-646981b907df" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="b331a149-4a45-41d9-bd9c-686dfcc9c95a" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="2cee6265-aa8b-438d-a042-5d3e9648dd76" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="321b7d69-34fa-4004-99b8-5e7b8e191ff1" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="c138bf8b-af26-4242-b5f1-e398e6e4140f" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="c0788144-0e1d-492e-864a-573c2a6dab28" LaneId="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3"/>
+      <Item Id="cf3bd14f-9452-448e-b518-d172b9f85950" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="efdf52b4-357c-4cf9-a53f-93694347c667" LaneId="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3"/>
+      <Item Id="c45c025a-231f-4b3d-9d9a-198b62fd969d" LaneId="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3"/>
+      <Item Id="aa81d714-1855-4e03-827f-d4ed055fdb43" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+      <Item Id="fc17dacc-d360-4392-a7bf-8e82851f1c40" LaneId="4f7ba78e-2980-4f1d-8322-cd4439a9f3c3"/>
+      <Item Id="af858087-9994-459a-8470-ab98ce87dd18" LaneId="654b6814-023b-44ad-a7ea-c23ca43a77df"/>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="a466283e-86b6-48cc-94c9-bae9b22dc51c"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
